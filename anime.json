@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T08:05:34.529Z",
+  "updatedAt": "2026-09-30T15:55:39.457Z",
   "source": "Bangumi (api.bgm.tv) + Bilibili (api.bilibili.com)",
   "note": "Bangumi 提供评分/收藏/排名/标签/封面；B站提供真实播放量/弹幕/追番数（13/30 部为B站真实数据），社媒/短视频/飙升/趋势为模拟数据。",
   "list": [
@@ -19,22 +19,22 @@
       "copyrightRisk": "medium",
       "copyrightNote": "B站热门番剧，剪辑时建议控制单段素材在 30 秒内并加入个人解说/混剪。",
       "heatIndex": 99,
-      "rankChange": 2,
-      "surge24h": 49,
-      "surge6h": 10,
+      "rankChange": 3,
+      "surge24h": 11,
+      "surge6h": 24,
       "surgeReason": "B站热播榜在榜，播放量与讨论度持续走高",
       "tags": [
         "剧情"
       ],
       "qualitySource": "全 12 话，B站 1080P",
       "metrics": {
-        "plays": 101610,
+        "plays": 101622,
         "playGrowth": 1016,
         "danmaku": 565,
         "socialPosts": 135,
         "socialViews": 508,
         "shortViews": 305,
-        "shortGrowth": 39,
+        "shortGrowth": 30,
         "sameMusic": 27,
         "score": 9.7,
         "scoreUsers": 24,
@@ -64,99 +64,103 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 92
+          "heat": 89
         },
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 96
+          "heat": 71
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 99
+          "heat": 94
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 80
+          "heat": 84
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 75
+          "heat": 95
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 71
+          "heat": 97
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 82
+          "heat": 73
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 79
+          "heat": 93
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 97
+          "heat": 84
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 86
+          "heat": 78
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 81
+          "heat": 93
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 70
+          "heat": 97
         }
       ],
       "trend24h": [
-        70,
-        72,
-        70,
-        74,
-        76,
-        81,
-        86,
-        89,
-        91,
-        97,
-        95,
-        99,
-        98,
-        98,
-        98,
-        95,
-        93,
-        88,
-        83,
-        81,
-        77,
-        72,
         71,
-        69
+        68,
+        73,
+        72,
+        77,
+        81,
+        82,
+        89,
+        90,
+        95,
+        98,
+        97,
+        99,
+        100,
+        99,
+        94,
+        93,
+        89,
+        86,
+        82,
+        79,
+        73,
+        70,
+        70
       ],
       "trend7d": [
+        87,
         91,
-        93,
-        93,
+        94,
         97,
-        99,
-        99,
-        101
+        96,
+        97,
+        102
       ],
+      "ranks": {
+        "daily": 10,
+        "weekly": 10
+      },
       "dataSource": "bilibili"
     },
     {
@@ -176,21 +180,21 @@
       "copyrightNote": "B站热门番剧，剪辑时建议控制单段素材在 30 秒内并加入个人解说/混剪。",
       "heatIndex": 93,
       "rankChange": 0,
-      "surge24h": 40,
-      "surge6h": 13,
+      "surge24h": 31,
+      "surge6h": 25,
       "surgeReason": "B站热播榜在榜，播放量与讨论度持续走高",
       "tags": [
         "剧情"
       ],
       "qualitySource": "全 12 话，B站 1080P",
       "metrics": {
-        "plays": 38305,
+        "plays": 38310,
         "playGrowth": 383,
         "danmaku": 610,
         "socialPosts": 68,
         "socialViews": 192,
         "shortViews": 115,
-        "shortGrowth": 21,
+        "shortGrowth": 20,
         "sameMusic": 14,
         "score": 9.8,
         "scoreUsers": 9,
@@ -220,22 +224,22 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 84
+          "heat": 81
         },
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 87
+          "heat": 75
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 71
+          "heat": 87
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 89
+          "heat": 76
         },
         {
           "ep": 5,
@@ -245,74 +249,78 @@
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 88
+          "heat": 81
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 69
+          "heat": 85
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 69
+          "heat": 81
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 68
+          "heat": 91
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 75
+          "heat": 85
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 73
+          "heat": 66
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 84
+          "heat": 92
         }
       ],
       "trend24h": [
-        66,
+        63,
+        64,
         67,
         68,
-        69,
-        74,
+        72,
         76,
-        77,
-        84,
-        86,
-        87,
-        93,
-        92,
-        92,
-        94,
-        91,
-        88,
-        84,
+        79,
         83,
-        77,
+        85,
+        88,
+        90,
+        94,
+        92,
+        93,
+        93,
+        87,
+        86,
+        82,
+        79,
         77,
         71,
-        71,
-        65,
-        65
+        68,
+        67,
+        67
       ],
       "trend7d": [
-        85,
-        83,
+        84,
         88,
-        89,
-        93,
-        93,
-        96
+        88,
+        91,
+        90,
+        94,
+        93
       ],
+      "ranks": {
+        "daily": 20,
+        "weekly": 20
+      },
       "dataSource": "bilibili"
     },
     {
@@ -333,20 +341,20 @@
       "heatIndex": 91,
       "rankChange": 0,
       "surge24h": 12,
-      "surge6h": 12,
+      "surge6h": 21,
       "surgeReason": "B站热播榜在榜，播放量与讨论度持续走高",
       "tags": [
         "剧情"
       ],
       "qualitySource": "全 12 话，B站 1080P",
       "metrics": {
-        "plays": 44053,
+        "plays": 44057,
         "playGrowth": 441,
         "danmaku": 137,
         "socialPosts": 56,
         "socialViews": 220,
         "shortViews": 132,
-        "shortGrowth": 22,
+        "shortGrowth": 25,
         "sameMusic": 11,
         "score": 9.9,
         "scoreUsers": 7,
@@ -376,47 +384,47 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 73
+          "heat": 69
         },
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 68
+          "heat": 66
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 76
+          "heat": 73
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 76
+          "heat": 70
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 67
+          "heat": 83
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 89
+          "heat": 86
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 73
+          "heat": 79
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 86
+          "heat": 78
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 76
+          "heat": 74
         },
         {
           "ep": 10,
@@ -426,49 +434,53 @@
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 76
+          "heat": 78
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 74
+          "heat": 75
         }
       ],
       "trend24h": [
-        64,
-        64,
         65,
-        69,
-        71,
-        74,
-        79,
-        80,
+        63,
+        66,
+        66,
+        70,
+        76,
+        76,
+        83,
         86,
-        87,
-        88,
+        89,
+        90,
         92,
         90,
-        91,
-        87,
+        92,
+        90,
+        88,
         85,
-        84,
         82,
-        77,
         76,
+        73,
         72,
         68,
-        66,
-        66
+        67,
+        62
       ],
       "trend7d": [
+        80,
+        82,
         84,
-        85,
-        85,
         86,
+        87,
         92,
-        92,
-        94
+        92
       ],
+      "ranks": {
+        "daily": 18,
+        "weekly": 18
+      },
       "dataSource": "bilibili"
     },
     {
@@ -488,21 +500,21 @@
       "copyrightNote": "B站热门番剧，剪辑时建议控制单段素材在 30 秒内并加入个人解说/混剪。",
       "heatIndex": 91,
       "rankChange": 0,
-      "surge24h": 30,
-      "surge6h": 7,
+      "surge24h": 17,
+      "surge6h": 10,
       "surgeReason": "B站热播榜在榜，播放量与讨论度持续走高",
       "tags": [
         "剧情"
       ],
       "qualitySource": "全 12 话，B站 1080P",
       "metrics": {
-        "plays": 70864,
+        "plays": 70870,
         "playGrowth": 709,
         "danmaku": 500,
         "socialPosts": 58,
         "socialViews": 354,
         "shortViews": 213,
-        "shortGrowth": 21,
+        "shortGrowth": 28,
         "sameMusic": 12,
         "score": 9.8,
         "scoreUsers": 27,
@@ -532,99 +544,103 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 65
+          "heat": 80
         },
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 77
+          "heat": 65
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 83
+          "heat": 78
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 83
+          "heat": 64
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 75
+          "heat": 67
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 73
+          "heat": 86
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 88
+          "heat": 84
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 85
+          "heat": 84
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 66
+          "heat": 68
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 73
+          "heat": 70
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 68
+          "heat": 88
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 72
+          "heat": 82
         }
       ],
       "trend24h": [
+        63,
         65,
         65,
-        67,
-        69,
-        69,
-        75,
-        75,
+        68,
+        72,
+        74,
+        77,
+        80,
         82,
-        83,
-        88,
-        89,
-        89,
-        91,
+        87,
         90,
-        88,
+        90,
+        91,
+        89,
+        90,
         86,
         83,
-        82,
-        78,
-        74,
+        81,
+        79,
+        75,
         71,
-        68,
-        68,
-        64
+        67,
+        65,
+        63
       ],
       "trend7d": [
-        84,
         82,
-        85,
-        89,
-        89,
+        82,
+        87,
+        87,
         90,
-        91
+        93,
+        94
       ],
+      "ranks": {
+        "daily": 19,
+        "weekly": 19
+      },
       "dataSource": "bilibili"
     },
     {
@@ -644,25 +660,25 @@
       "copyrightNote": "B站热门番剧，剪辑时建议控制单段素材在 30 秒内并加入个人解说/混剪。",
       "heatIndex": 90,
       "rankChange": 3,
-      "surge24h": 24,
-      "surge6h": 8,
+      "surge24h": 30,
+      "surge6h": 21,
       "surgeReason": "B站热播榜在榜，播放量与讨论度持续走高",
       "tags": [
         "剧情"
       ],
       "qualitySource": "全 12 话，B站 1080P",
       "metrics": {
-        "plays": 81650,
+        "plays": 81664,
         "playGrowth": 817,
         "danmaku": 342,
         "socialPosts": 51,
         "socialViews": 408,
         "shortViews": 245,
-        "shortGrowth": 17,
+        "shortGrowth": 31,
         "sameMusic": 10,
         "score": 9.9,
         "scoreUsers": 8,
-        "biliFavorites": 512,
+        "biliFavorites": 513,
         "biliCoins": 230
       },
       "audience": [
@@ -693,94 +709,98 @@
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 83
+          "heat": 88
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 66
+          "heat": 71
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 86
+          "heat": 70
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 88
+          "heat": 79
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 78
+          "heat": 67
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 74
+          "heat": 85
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 89
+          "heat": 68
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 85
+          "heat": 73
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 71
+          "heat": 67
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 67
+          "heat": 64
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 83
+          "heat": 67
         }
       ],
       "trend24h": [
-        64,
-        65,
         63,
+        64,
+        64,
         67,
-        72,
+        69,
         74,
-        76,
         78,
-        84,
+        81,
+        81,
         88,
         87,
-        91,
-        91,
         90,
-        87,
-        86,
-        83,
+        89,
+        89,
+        89,
+        85,
+        82,
         80,
-        76,
-        74,
-        71,
-        66,
-        65,
+        78,
+        73,
+        69,
+        68,
+        64,
         64
       ],
       "trend7d": [
-        83,
+        79,
+        82,
         85,
-        84,
         88,
-        89,
+        86,
         90,
-        91
+        92
       ],
+      "ranks": {
+        "daily": 9,
+        "weekly": 9
+      },
       "dataSource": "bilibili"
     },
     {
@@ -800,21 +820,21 @@
       "copyrightNote": "B站热门番剧，剪辑时建议控制单段素材在 30 秒内并加入个人解说/混剪。",
       "heatIndex": 87,
       "rankChange": 0,
-      "surge24h": 42,
-      "surge6h": 20,
+      "surge24h": 12,
+      "surge6h": 16,
       "surgeReason": "B站热播榜在榜，播放量与讨论度持续走高",
       "tags": [
         "剧情"
       ],
       "qualitySource": "全 12 话，B站 1080P",
       "metrics": {
-        "plays": 45751,
+        "plays": 45756,
         "playGrowth": 458,
         "danmaku": 954,
         "socialPosts": 40,
         "socialViews": 229,
         "shortViews": 137,
-        "shortGrowth": 35,
+        "shortGrowth": 31,
         "sameMusic": 8,
         "score": 9.8,
         "scoreUsers": 11,
@@ -844,99 +864,103 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 73
+          "heat": 85
         },
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 82
+          "heat": 78
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 69
+          "heat": 82
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 65
+          "heat": 73
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 68
+          "heat": 62
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 74
+          "heat": 67
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 84
+          "heat": 86
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 83
+          "heat": 73
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 63
+          "heat": 64
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 71
+          "heat": 84
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 76
+          "heat": 83
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 72
+          "heat": 74
         }
       ],
       "trend24h": [
-        60,
-        62,
         62,
         63,
+        64,
+        67,
         66,
-        69,
-        73,
+        70,
         75,
+        76,
         80,
         82,
         84,
-        86,
-        89,
-        88,
+        87,
         85,
+        85,
+        87,
+        84,
         81,
-        79,
-        76,
+        78,
+        75,
         73,
-        70,
         67,
-        63,
-        64,
-        60
+        66,
+        62,
+        62
       ],
       "trend7d": [
-        78,
+        79,
+        80,
+        83,
         82,
-        81,
-        85,
-        85,
-        85,
-        90
+        87,
+        87,
+        91
       ],
+      "ranks": {
+        "daily": 12,
+        "weekly": 12
+      },
       "dataSource": "bilibili"
     },
     {
@@ -956,21 +980,21 @@
       "copyrightNote": "B站热门番剧，剪辑时建议控制单段素材在 30 秒内并加入个人解说/混剪。",
       "heatIndex": 86,
       "rankChange": 0,
-      "surge24h": 30,
-      "surge6h": 15,
+      "surge24h": 36,
+      "surge6h": 13,
       "surgeReason": "B站热播榜在榜，播放量与讨论度持续走高",
       "tags": [
         "剧情"
       ],
       "qualitySource": "全 12 话，B站 1080P",
       "metrics": {
-        "plays": 56841,
+        "plays": 56848,
         "playGrowth": 568,
         "danmaku": 1087,
         "socialPosts": 35,
         "socialViews": 284,
         "shortViews": 171,
-        "shortGrowth": 41,
+        "shortGrowth": 19,
         "sameMusic": 7,
         "score": 9.8,
         "scoreUsers": 6,
@@ -1000,7 +1024,7 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 84
+          "heat": 75
         },
         {
           "ep": 2,
@@ -1010,89 +1034,93 @@
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 79
+          "heat": 69
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 66
+          "heat": 74
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 61
+          "heat": 67
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 65
+          "heat": 61
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 76
+          "heat": 72
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 71
+          "heat": 64
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 70
+          "heat": 86
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 63
+          "heat": 67
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 85
+          "heat": 76
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 66
+          "heat": 82
         }
       ],
       "trend24h": [
-        60,
         61,
-        62,
+        59,
         64,
+        63,
         67,
-        69,
+        70,
         74,
         75,
-        78,
-        83,
-        86,
-        85,
-        86,
+        79,
         84,
+        86,
+        87,
+        88,
+        87,
         85,
-        82,
-        80,
-        77,
+        84,
+        79,
+        78,
         72,
-        68,
+        71,
         66,
+        62,
         63,
-        61,
-        59
+        61
       ],
       "trend7d": [
-        76,
+        78,
         79,
         80,
-        83,
-        82,
         85,
-        86
+        85,
+        87,
+        89
       ],
+      "ranks": {
+        "daily": 13,
+        "weekly": 13
+      },
       "dataSource": "bilibili"
     },
     {
@@ -1112,25 +1140,25 @@
       "copyrightNote": "B站热门番剧，剪辑时建议控制单段素材在 30 秒内并加入个人解说/混剪。",
       "heatIndex": 86,
       "rankChange": 0,
-      "surge24h": 26,
-      "surge6h": 9,
+      "surge24h": 23,
+      "surge6h": 17,
       "surgeReason": "B站热播榜在榜，播放量与讨论度持续走高",
       "tags": [
         "剧情"
       ],
       "qualitySource": "全 12 话，B站 1080P",
       "metrics": {
-        "plays": 49136,
+        "plays": 49141,
         "playGrowth": 491,
         "danmaku": 344,
-        "socialPosts": 35,
+        "socialPosts": 36,
         "socialViews": 246,
         "shortViews": 147,
-        "shortGrowth": 39,
+        "shortGrowth": 32,
         "sameMusic": 7,
         "score": 9.5,
         "scoreUsers": 12,
-        "biliFavorites": 354,
+        "biliFavorites": 355,
         "biliCoins": 145
       },
       "audience": [
@@ -1156,99 +1184,103 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 67
+          "heat": 77
         },
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 84
+          "heat": 73
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 78
+          "heat": 68
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 85
+          "heat": 69
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 81
+          "heat": 78
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 83
+          "heat": 80
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 64
+          "heat": 76
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 73
+          "heat": 78
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 81
+          "heat": 85
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 86
+          "heat": 62
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 69
+          "heat": 81
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 76
+          "heat": 82
         }
       ],
       "trend24h": [
-        58,
-        60,
+        61,
+        61,
         62,
-        62,
-        67,
-        70,
-        72,
-        76,
-        78,
-        82,
-        85,
-        87,
-        85,
-        85,
-        82,
-        82,
-        80,
-        74,
-        72,
-        72,
-        68,
         66,
-        64,
-        61
+        66,
+        71,
+        72,
+        78,
+        80,
+        82,
+        82,
+        85,
+        86,
+        87,
+        82,
+        83,
+        81,
+        77,
+        73,
+        70,
+        67,
+        65,
+        61,
+        60
       ],
       "trend7d": [
-        76,
-        77,
-        79,
-        83,
-        85,
+        78,
+        78,
+        81,
+        82,
         84,
-        90
+        85,
+        86
       ],
+      "ranks": {
+        "daily": 15,
+        "weekly": 15
+      },
       "dataSource": "bilibili"
     },
     {
@@ -1268,21 +1300,21 @@
       "copyrightNote": "B站热门番剧，剪辑时建议控制单段素材在 30 秒内并加入个人解说/混剪。",
       "heatIndex": 82,
       "rankChange": 2,
-      "surge24h": 13,
-      "surge6h": 17,
+      "surge24h": 25,
+      "surge6h": 18,
       "surgeReason": "B站热播榜在榜，播放量与讨论度持续走高",
       "tags": [
         "剧情"
       ],
       "qualitySource": "全 12 话，B站 1080P",
       "metrics": {
-        "plays": 114072,
+        "plays": 114093,
         "playGrowth": 1141,
         "danmaku": 361,
         "socialPosts": 13,
         "socialViews": 570,
         "shortViews": 342,
-        "shortGrowth": 17,
+        "shortGrowth": 39,
         "sameMusic": 3,
         "score": 9.8,
         "scoreUsers": 1,
@@ -1312,99 +1344,103 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 70
+          "heat": 63
         },
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 81
+          "heat": 74
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 69
+          "heat": 60
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 77
+          "heat": 82
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 82
+          "heat": 75
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 68
+          "heat": 70
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 68
+          "heat": 80
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 65
+          "heat": 79
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 80
+          "heat": 77
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 59
+          "heat": 80
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 69
+          "heat": 58
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 71
+          "heat": 65
         }
       ],
       "trend24h": [
+        58,
         57,
-        56,
-        60,
-        61,
-        65,
-        68,
-        71,
+        57,
+        62,
+        63,
+        67,
+        69,
         74,
+        75,
         77,
-        78,
         82,
+        82,
+        81,
         83,
-        83,
-        82,
-        82,
-        80,
+        81,
+        79,
         75,
         72,
-        71,
-        67,
+        70,
         65,
         62,
+        62,
         57,
-        56
+        58
       ],
       "trend7d": [
+        72,
+        75,
         76,
         77,
-        77,
-        77,
+        82,
         80,
-        84,
-        83
+        86
       ],
+      "ranks": {
+        "daily": 6,
+        "weekly": 6
+      },
       "dataSource": "bilibili"
     },
     {
@@ -1424,7 +1460,7 @@
       "copyrightNote": "B站热门番剧，剪辑时建议控制单段素材在 30 秒内并加入个人解说/混剪。",
       "heatIndex": 82,
       "rankChange": 1,
-      "surge24h": 24,
+      "surge24h": 17,
       "surge6h": 14,
       "surgeReason": "B站热播榜在榜，播放量与讨论度持续走高",
       "tags": [
@@ -1432,13 +1468,13 @@
       ],
       "qualitySource": "全 12 话，B站 1080P",
       "metrics": {
-        "plays": 19216,
+        "plays": 19220,
         "playGrowth": 192,
         "danmaku": 67,
         "socialPosts": 15,
         "socialViews": 96,
         "shortViews": 58,
-        "shortGrowth": 42,
+        "shortGrowth": 41,
         "sameMusic": 3,
         "score": 9.6,
         "scoreUsers": 7,
@@ -1468,99 +1504,103 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 80
+          "heat": 62
         },
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 65
+          "heat": 64
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 71
+          "heat": 74
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 71
+          "heat": 69
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 66
+          "heat": 65
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 81
+          "heat": 80
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 70
+          "heat": 65
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 58
+          "heat": 76
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 67
+          "heat": 81
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 76
+          "heat": 74
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 58
+          "heat": 74
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 69
+          "heat": 78
         }
       ],
       "trend24h": [
-        59,
-        57,
         57,
         59,
-        62,
-        67,
-        72,
-        73,
-        74,
-        79,
-        80,
-        83,
-        84,
-        80,
-        79,
-        80,
-        78,
-        73,
+        58,
+        60,
+        63,
+        65,
         71,
+        71,
+        75,
+        79,
+        80,
+        81,
+        80,
+        82,
+        79,
+        79,
+        75,
+        74,
+        70,
         66,
         64,
         60,
-        58,
-        57
+        57,
+        58
       ],
       "trend7d": [
-        74,
+        73,
         77,
-        76,
-        80,
-        80,
-        84,
-        83
+        79,
+        77,
+        81,
+        83,
+        85
       ],
+      "ranks": {
+        "daily": 8,
+        "weekly": 8
+      },
       "dataSource": "bilibili"
     },
     {
@@ -1582,8 +1622,8 @@
       "copyrightNote": "已完结番剧二创环境相对宽松，仍建议避免大段无加工原片搬运。",
       "heatIndex": 68,
       "rankChange": "new",
-      "surge24h": 22,
-      "surge6h": 10,
+      "surge24h": 17,
+      "surge6h": 7,
       "surgeReason": "口碑持续发酵，Bangumi 9.2 分，\"Clannad、京阿尼\" 相关讨论度高",
       "tags": [
         "治愈",
@@ -1592,13 +1632,13 @@
       ],
       "qualitySource": "全 24 话，主流平台 1080P",
       "metrics": {
-        "plays": 5968,
+        "plays": 5969,
         "playGrowth": 30,
-        "danmaku": 477,
+        "danmaku": 478,
         "socialPosts": 1194,
         "socialViews": 18,
         "shortViews": 12,
-        "shortGrowth": 18,
+        "shortGrowth": 14,
         "sameMusic": 298,
         "score": 9.2,
         "scoreUsers": 3,
@@ -1661,37 +1701,37 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 68
+          "heat": 67
         },
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 59
+          "heat": 63
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 63
+          "heat": 61
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 59
+          "heat": 55
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 48
+          "heat": 52
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 42
+          "heat": 41
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 42
+          "heat": 40
         },
         {
           "ep": 8,
@@ -1701,59 +1741,60 @@
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 45
+          "heat": 47
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 55
+          "heat": 54
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 59
+          "heat": 58
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 66
+          "heat": 67
         }
       ],
       "trend24h": [
-        47,
-        47,
-        51,
+        48,
+        49,
+        50,
+        49,
         52,
-        52,
-        55,
-        60,
+        54,
+        58,
         61,
-        63,
+        61,
         67,
         65,
-        67,
+        66,
+        66,
         68,
-        68,
-        68,
-        63,
+        69,
+        65,
         63,
         60,
-        57,
+        59,
+        56,
         54,
-        51,
-        52,
         49,
-        49
+        50,
+        50
       ],
       "trend7d": [
-        62,
-        62,
-        62,
-        67,
+        59,
         64,
+        66,
+        66,
         69,
-        68
+        70,
+        70
       ],
+      "ranks": {},
       "dataSource": "bangumi"
     },
     {
@@ -1775,8 +1816,8 @@
       "copyrightNote": "连载新番版权方对二创管控较严，剪辑时避免完整集数搬运，建议控制单段素材在 30 秒内并加入个人解说/混剪。",
       "heatIndex": 67,
       "rankChange": "new",
-      "surge24h": 133,
-      "surge6h": 57,
+      "surge24h": 136,
+      "surge6h": 67,
       "surgeReason": "连载中剧情推进，\"柯南、-完结摇摇无指日……\" 话题带动切片传播",
       "tags": [
         "推理",
@@ -1785,13 +1826,13 @@
       ],
       "qualitySource": "主流平台 1080P",
       "metrics": {
-        "plays": 217641,
+        "plays": 217681,
         "playGrowth": 1088,
-        "danmaku": 2314,
+        "danmaku": 2315,
         "socialPosts": 553,
         "socialViews": 8,
         "shortViews": 6,
-        "shortGrowth": 106,
+        "shortGrowth": 109,
         "sameMusic": 138,
         "score": 7.5,
         "scoreUsers": 1,
@@ -1854,57 +1895,57 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 44
+          "heat": 43
         },
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 40
+          "heat": 37
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 40
+          "heat": 43
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 34
+          "heat": 39
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 33
+          "heat": 31
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 27
+          "heat": 30
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 25
+          "heat": 24
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 27
+          "heat": 25
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 31
+          "heat": 29
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 36
+          "heat": 33
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 41
+          "heat": 40
         },
         {
           "ep": 12,
@@ -1913,40 +1954,44 @@
         }
       ],
       "trend24h": [
-        48,
         47,
+        45,
         49,
-        50,
+        48,
         52,
         54,
         57,
-        60,
+        58,
         62,
-        63,
         64,
-        68,
-        68,
+        65,
         67,
         65,
-        64,
-        63,
-        60,
+        67,
+        67,
+        65,
+        61,
+        61,
         56,
         53,
-        52,
+        51,
+        51,
         49,
-        50,
         46
       ],
       "trend7d": [
-        58,
-        59,
+        61,
+        60,
         63,
-        66,
-        63,
+        64,
         68,
-        67
+        67,
+        68
       ],
+      "ranks": {
+        "daily": 1,
+        "weekly": 1
+      },
       "dataSource": "bangumi+bilibili"
     },
     {
@@ -1968,8 +2013,8 @@
       "copyrightNote": "已完结番剧二创环境相对宽松，仍建议避免大段无加工原片搬运。",
       "heatIndex": 66,
       "rankChange": "new",
-      "surge24h": 31,
-      "surge6h": 9,
+      "surge24h": 30,
+      "surge6h": 10,
       "surgeReason": "口碑持续发酵，Bangumi 8.8 分，\"科幻、中二病\" 相关讨论度高",
       "tags": [
         "科幻",
@@ -1978,17 +2023,17 @@
       ],
       "qualitySource": "全 25 话，主流平台 1080P",
       "metrics": {
-        "plays": 7897,
+        "plays": 7898,
         "playGrowth": 39,
         "danmaku": 632,
-        "socialPosts": 1579,
+        "socialPosts": 1580,
         "socialViews": 24,
         "shortViews": 16,
-        "shortGrowth": 25,
+        "shortGrowth": 24,
         "sameMusic": 395,
         "score": 8.8,
         "scoreUsers": 4,
-        "biliFavorites": 3948,
+        "biliFavorites": 3949,
         "biliCoins": 0
       },
       "audience": [
@@ -2052,7 +2097,7 @@
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 59
+          "heat": 61
         },
         {
           "ep": 3,
@@ -2062,84 +2107,85 @@
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 53
+          "heat": 55
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 50
+          "heat": 48
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 43
+          "heat": 41
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 37
+          "heat": 40
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 43
+          "heat": 40
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 46
+          "heat": 48
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 53
+          "heat": 55
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 59
+          "heat": 58
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 67
+          "heat": 64
         }
       ],
       "trend24h": [
         48,
-        45,
-        46,
+        48,
+        47,
         50,
-        50,
-        52,
+        53,
+        53,
+        55,
         57,
-        59,
-        61,
+        62,
         64,
-        63,
         65,
         66,
+        67,
         64,
-        65,
-        65,
-        62,
+        64,
+        61,
+        60,
+        59,
         57,
-        56,
+        55,
         52,
-        52,
-        48,
-        46,
-        46
+        51,
+        47,
+        47
       ],
       "trend7d": [
         60,
         60,
-        64,
-        61,
+        62,
+        65,
         63,
-        68,
+        64,
         67
       ],
+      "ranks": {},
       "dataSource": "bangumi"
     },
     {
@@ -2161,8 +2207,8 @@
       "copyrightNote": "已完结番剧二创环境相对宽松，仍建议避免大段无加工原片搬运。",
       "heatIndex": 66,
       "rankChange": "new",
-      "surge24h": 22,
-      "surge6h": 8,
+      "surge24h": 11,
+      "surge6h": 5,
       "surgeReason": "口碑持续发酵，Bangumi 8.8 分，\"钢之炼金术师、BONES\" 相关讨论度高",
       "tags": [
         "热血",
@@ -2171,13 +2217,13 @@
       ],
       "qualitySource": "全 64 话，主流平台 1080P",
       "metrics": {
-        "plays": 5094,
+        "plays": 5095,
         "playGrowth": 25,
         "danmaku": 408,
         "socialPosts": 1019,
         "socialViews": 15,
         "shortViews": 10,
-        "shortGrowth": 18,
+        "shortGrowth": 9,
         "sameMusic": 255,
         "score": 8.8,
         "scoreUsers": 3,
@@ -2240,7 +2286,7 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 64
+          "heat": 61
         },
         {
           "ep": 2,
@@ -2255,27 +2301,27 @@
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 53
+          "heat": 52
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 47
+          "heat": 48
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 43
+          "heat": 45
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 37
+          "heat": 38
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 43
+          "heat": 42
         },
         {
           "ep": 9,
@@ -2290,49 +2336,50 @@
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 60
+          "heat": 57
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 66
+          "heat": 68
         }
       ],
       "trend24h": [
         46,
         45,
-        47,
         49,
-        51,
+        49,
         53,
+        54,
+        58,
         57,
-        57,
-        59,
-        65,
-        63,
+        62,
         64,
         66,
         66,
         65,
-        63,
-        60,
-        60,
-        55,
+        65,
+        65,
+        65,
+        61,
+        57,
+        57,
+        52,
         53,
-        51,
-        49,
-        46,
-        46
+        47,
+        47,
+        45
       ],
       "trend7d": [
+        60,
         61,
-        63,
         64,
-        65,
         63,
+        65,
         66,
-        68
+        67
       ],
+      "ranks": {},
       "dataSource": "bangumi"
     },
     {
@@ -2354,8 +2401,8 @@
       "copyrightNote": "已完结番剧二创环境相对宽松，仍建议避免大段无加工原片搬运。",
       "heatIndex": 66,
       "rankChange": "new",
-      "surge24h": 30,
-      "surge6h": 14,
+      "surge24h": 15,
+      "surge6h": 6,
       "surgeReason": "口碑持续发酵，Bangumi 8.7 分，\"P.A.WORKS、原创\" 相关讨论度高",
       "tags": [
         "日常",
@@ -2370,7 +2417,7 @@
         "socialPosts": 1045,
         "socialViews": 16,
         "shortViews": 10,
-        "shortGrowth": 24,
+        "shortGrowth": 12,
         "sameMusic": 261,
         "score": 8.7,
         "scoreUsers": 2,
@@ -2438,94 +2485,95 @@
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 57
+          "heat": 62
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 58
+          "heat": 57
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 54
+          "heat": 55
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 46
+          "heat": 51
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 41
+          "heat": 42
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 38
+          "heat": 37
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 42
+          "heat": 41
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 46
+          "heat": 48
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 49
+          "heat": 52
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 56
+          "heat": 60
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 63
+          "heat": 69
         }
       ],
       "trend24h": [
+        46,
         48,
         46,
-        46,
         50,
-        51,
-        55,
-        54,
+        50,
+        53,
+        56,
         58,
-        60,
-        62,
+        63,
+        61,
         66,
-        64,
-        64,
+        66,
+        67,
         65,
         63,
-        65,
+        63,
+        63,
         60,
-        57,
         54,
-        55,
-        51,
+        52,
+        52,
         49,
-        47,
-        46
+        49,
+        45
       ],
       "trend7d": [
-        60,
-        63,
-        62,
-        64,
+        59,
+        59,
+        61,
+        66,
         64,
         67,
-        69
+        67
       ],
+      "ranks": {},
       "dataSource": "bangumi"
     },
     {
@@ -2547,8 +2595,8 @@
       "copyrightNote": "已完结番剧二创环境相对宽松，仍建议避免大段无加工原片搬运。",
       "heatIndex": 64,
       "rankChange": "new",
-      "surge24h": 18,
-      "surge6h": 7,
+      "surge24h": 29,
+      "surge6h": 14,
       "surgeReason": "口碑持续发酵，Bangumi 9.1 分，\"渡边信一郎、菅野洋子\" 相关讨论度高",
       "tags": [
         "科幻",
@@ -2557,13 +2605,13 @@
       ],
       "qualitySource": "全 26 话，主流平台 1080P",
       "metrics": {
-        "plays": 4533,
+        "plays": 4534,
         "playGrowth": 23,
         "danmaku": 363,
         "socialPosts": 907,
         "socialViews": 14,
         "shortViews": 9,
-        "shortGrowth": 14,
+        "shortGrowth": 23,
         "sameMusic": 227,
         "score": 9.1,
         "scoreUsers": 2,
@@ -2626,42 +2674,42 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 61
+          "heat": 60
         },
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 60
+          "heat": 56
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 56
+          "heat": 60
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 51
+          "heat": 55
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 44
+          "heat": 46
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 39
+          "heat": 42
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 38
+          "heat": 37
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 42
+          "heat": 41
         },
         {
           "ep": 9,
@@ -2671,54 +2719,55 @@
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 49
+          "heat": 52
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 54
+          "heat": 55
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 66
+          "heat": 62
         }
       ],
       "trend24h": [
-        45,
+        46,
+        47,
         44,
-        48,
-        49,
+        47,
         51,
-        52,
-        53,
-        58,
+        51,
+        54,
+        59,
         58,
         60,
-        62,
-        65,
+        64,
+        64,
+        64,
         65,
         64,
-        62,
-        61,
         60,
-        57,
+        61,
         56,
-        53,
-        50,
+        55,
+        51,
+        49,
+        46,
         48,
-        47,
-        44
+        45
       ],
       "trend7d": [
         56,
+        61,
         60,
-        61,
         63,
-        61,
+        62,
         64,
-        66
+        65
       ],
+      "ranks": {},
       "dataSource": "bangumi"
     },
     {
@@ -2740,8 +2789,8 @@
       "copyrightNote": "已完结番剧二创环境相对宽松，仍建议避免大段无加工原片搬运。",
       "heatIndex": 64,
       "rankChange": "new",
-      "surge24h": 5,
-      "surge6h": 2,
+      "surge24h": 22,
+      "surge6h": 10,
       "surgeReason": "口碑持续发酵，Bangumi 8.7 分，\"京阿尼、剧场版\" 相关讨论度高",
       "tags": [
         "校园",
@@ -2750,13 +2799,13 @@
       ],
       "qualitySource": "全 1 话，主流平台 1080P",
       "metrics": {
-        "plays": 4767,
+        "plays": 4768,
         "playGrowth": 24,
         "danmaku": 381,
-        "socialPosts": 953,
+        "socialPosts": 954,
         "socialViews": 14,
         "shortViews": 10,
-        "shortGrowth": 4,
+        "shortGrowth": 18,
         "sameMusic": 238,
         "score": 8.7,
         "scoreUsers": 2,
@@ -2819,44 +2868,45 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 65
+          "heat": 63
         }
       ],
       "trend24h": [
+        46,
         43,
-        45,
-        46,
-        48,
-        48,
-        50,
-        55,
-        59,
-        59,
-        60,
-        62,
-        64,
-        63,
-        65,
-        63,
-        60,
-        59,
-        57,
-        52,
-        50,
-        51,
         47,
-        46,
-        44
+        49,
+        49,
+        50,
+        53,
+        55,
+        58,
+        60,
+        64,
+        65,
+        66,
+        63,
+        62,
+        61,
+        61,
+        55,
+        54,
+        51,
+        49,
+        49,
+        48,
+        45
       ],
       "trend7d": [
-        60,
-        60,
-        61,
+        59,
+        59,
+        59,
         63,
-        62,
-        62,
+        63,
+        66,
         65
       ],
+      "ranks": {},
       "dataSource": "bangumi"
     },
     {
@@ -2878,7 +2928,7 @@
       "copyrightNote": "已完结番剧二创环境相对宽松，仍建议避免大段无加工原片搬运。",
       "heatIndex": 62,
       "rankChange": "new",
-      "surge24h": 8,
+      "surge24h": 9,
       "surge6h": 3,
       "surgeReason": "口碑持续发酵，Bangumi 8.7 分，\"进击的巨人、WITSTUDIO\" 相关讨论度高",
       "tags": [
@@ -2888,17 +2938,17 @@
       ],
       "qualitySource": "全 10 话，主流平台 1080P",
       "metrics": {
-        "plays": 4448,
+        "plays": 4449,
         "playGrowth": 22,
         "danmaku": 356,
         "socialPosts": 890,
         "socialViews": 13,
         "shortViews": 9,
-        "shortGrowth": 6,
+        "shortGrowth": 7,
         "sameMusic": 222,
         "score": 8.7,
         "scoreUsers": 2,
-        "biliFavorites": 2224,
+        "biliFavorites": 2225,
         "biliCoins": 0
       },
       "audience": [
@@ -2957,7 +3007,7 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 61
+          "heat": 58
         },
         {
           "ep": 2,
@@ -2967,79 +3017,80 @@
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 54
+          "heat": 55
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 47
+          "heat": 49
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 41
+          "heat": 39
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 35
+          "heat": 40
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 42
+          "heat": 37
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 47
+          "heat": 48
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 52
+          "heat": 55
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 64
+          "heat": 63
         }
       ],
       "trend24h": [
+        45,
         42,
-        44,
-        43,
+        46,
         45,
         47,
-        51,
-        51,
-        55,
-        58,
-        59,
+        50,
+        53,
+        54,
+        57,
         60,
-        63,
-        64,
         61,
-        59,
+        61,
+        61,
+        63,
         59,
         58,
+        57,
         57,
         52,
-        50,
-        48,
+        52,
+        49,
         45,
-        45,
-        46
+        46,
+        42
       ],
       "trend7d": [
+        54,
         56,
-        57,
+        56,
         58,
         60,
         61,
-        63,
-        64
+        62
       ],
+      "ranks": {},
       "dataSource": "bangumi"
     },
     {
@@ -3061,8 +3112,8 @@
       "copyrightNote": "已完结番剧二创环境相对宽松，仍建议避免大段无加工原片搬运。",
       "heatIndex": 59,
       "rankChange": "new",
-      "surge24h": 12,
-      "surge6h": 5,
+      "surge24h": 5,
+      "surge6h": 2,
       "surgeReason": "口碑持续发酵，Bangumi 8.9 分，\"EVA、庵野秀明\" 相关讨论度高",
       "tags": [
         "科幻",
@@ -3071,13 +3122,13 @@
       ],
       "qualitySource": "全 2 话，主流平台 1080P",
       "metrics": {
-        "plays": 4041,
+        "plays": 4042,
         "playGrowth": 20,
         "danmaku": 323,
         "socialPosts": 808,
         "socialViews": 12,
         "shortViews": 8,
-        "shortGrowth": 10,
+        "shortGrowth": 4,
         "sameMusic": 202,
         "score": 8.9,
         "scoreUsers": 2,
@@ -3140,49 +3191,50 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 55
+          "heat": 54
         },
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 58
+          "heat": 62
         }
       ],
       "trend24h": [
-        41,
-        43,
+        42,
+        40,
         44,
-        43,
         44,
-        48,
+        47,
+        47,
         52,
-        51,
-        54,
-        55,
+        53,
         57,
-        57,
-        60,
         58,
-        60,
+        57,
+        58,
+        59,
+        59,
         56,
         54,
-        53,
-        51,
-        48,
+        56,
+        50,
+        50,
         47,
+        45,
         44,
-        42,
-        42
+        43,
+        40
       ],
       "trend7d": [
-        51,
-        53,
-        57,
-        58,
+        52,
         56,
-        57,
-        59
+        56,
+        55,
+        58,
+        60,
+        58
       ],
+      "ranks": {},
       "dataSource": "bangumi"
     },
     {
@@ -3201,22 +3253,22 @@
       "copyrightRisk": "medium",
       "copyrightNote": "B站热门番剧，剪辑时建议控制单段素材在 30 秒内并加入个人解说/混剪。",
       "heatIndex": 54,
-      "rankChange": 1,
-      "surge24h": 48,
-      "surge6h": 25,
+      "rankChange": 3,
+      "surge24h": 40,
+      "surge6h": 7,
       "surgeReason": "B站热播榜在榜，播放量与讨论度持续走高",
       "tags": [
         "剧情"
       ],
       "qualitySource": "全 12 话，B站 1080P",
       "metrics": {
-        "plays": 4663,
+        "plays": 4667,
         "playGrowth": 47,
         "danmaku": 31,
         "socialPosts": 8,
         "socialViews": 23,
         "shortViews": 14,
-        "shortGrowth": 28,
+        "shortGrowth": 42,
         "sameMusic": 2,
         "score": 9.8,
         "scoreUsers": 2,
@@ -3246,99 +3298,103 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 47
+          "heat": 42
         },
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 51
+          "heat": 46
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 44
+          "heat": 48
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 41
+          "heat": 51
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 53
+          "heat": 46
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 45
+          "heat": 38
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 50
+          "heat": 48
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 53
+          "heat": 39
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 53
+          "heat": 46
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 53
+          "heat": 54
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 44
+          "heat": 54
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 47
+          "heat": 53
         }
       ],
       "trend24h": [
-        37,
-        40,
-        40,
+        38,
+        36,
         39,
+        40,
         41,
         45,
+        45,
+        48,
+        48,
+        53,
+        55,
+        52,
+        55,
+        52,
+        52,
+        52,
+        49,
         48,
         46,
-        51,
-        52,
-        51,
-        54,
-        56,
-        55,
-        53,
-        50,
-        48,
-        50,
-        47,
-        44,
+        43,
+        42,
         41,
-        40,
-        39,
-        37
+        38,
+        38
       ],
       "trend7d": [
-        49,
-        51,
         50,
+        52,
         51,
-        51,
-        56,
-        56
+        52,
+        53,
+        53,
+        53
       ],
+      "ranks": {
+        "daily": 3,
+        "weekly": 3
+      },
       "dataSource": "bilibili"
     },
     {
@@ -3360,8 +3416,8 @@
       "copyrightNote": "连载新番版权方对二创管控较严，剪辑时避免完整集数搬运，建议控制单段素材在 30 秒内并加入个人解说/混剪。",
       "heatIndex": 52,
       "rankChange": "new",
-      "surge24h": 138,
-      "surge6h": 63,
+      "surge24h": 162,
+      "surge6h": 78,
       "surgeReason": "连载中剧情推进，\"ONEPIECE、海贼王\" 话题带动切片传播",
       "tags": [
         "热血",
@@ -3376,7 +3432,7 @@
         "socialPosts": 682,
         "socialViews": 10,
         "shortViews": 7,
-        "shortGrowth": 110,
+        "shortGrowth": 130,
         "sameMusic": 171,
         "score": 8.3,
         "scoreUsers": 1,
@@ -3439,12 +3495,12 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 47
+          "heat": 48
         },
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 45
+          "heat": 44
         },
         {
           "ep": 3,
@@ -3454,84 +3510,85 @@
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 43
+          "heat": 40
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 41
+          "heat": 38
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 32
+          "heat": 33
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 32
+          "heat": 31
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 34
+          "heat": 32
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 37
+          "heat": 34
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 44
+          "heat": 41
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 44
+          "heat": 45
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 49
+          "heat": 52
         }
       ],
       "trend24h": [
+        37,
         35,
-        37,
+        38,
         39,
-        37,
         41,
-        44,
+        40,
         45,
-        46,
-        49,
         48,
+        47,
         51,
-        53,
-        53,
+        52,
         51,
-        50,
+        51,
+        52,
+        51,
         49,
-        50,
+        49,
         47,
         44,
-        43,
         42,
-        39,
-        36,
+        41,
+        40,
+        38,
         37
       ],
       "trend7d": [
-        48,
-        50,
+        46,
+        49,
         47,
-        52,
-        53,
-        52,
-        55
+        48,
+        51,
+        54,
+        54
       ],
+      "ranks": {},
       "dataSource": "bangumi"
     },
     {
@@ -3552,8 +3609,8 @@
       "copyrightNote": "已完结番剧二创环境相对宽松，仍建议避免大段无加工原片搬运。",
       "heatIndex": 49,
       "rankChange": "new",
-      "surge24h": 15,
-      "surge6h": 7,
+      "surge24h": 36,
+      "surge6h": 16,
       "surgeReason": "口碑持续发酵，Bangumi 9.2 分，\"科幻、菅野洋子\" 相关讨论度高",
       "tags": [
         "科幻",
@@ -3567,11 +3624,11 @@
         "socialPosts": 534,
         "socialViews": 8,
         "shortViews": 5,
-        "shortGrowth": 12,
+        "shortGrowth": 29,
         "sameMusic": 134,
         "score": 9.2,
         "scoreUsers": 1,
-        "biliFavorites": 1335,
+        "biliFavorites": 1336,
         "biliCoins": 0
       },
       "audience": [
@@ -3630,27 +3687,27 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 47
+          "heat": 48
         },
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 45
+          "heat": 42
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 42
+          "heat": 45
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 43
+          "heat": 38
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 34
+          "heat": 36
         },
         {
           "ep": 6,
@@ -3665,64 +3722,65 @@
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 29
+          "heat": 31
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 35
+          "heat": 36
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 40
+          "heat": 37
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 40
+          "heat": 42
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 46
+          "heat": 50
         }
       ],
       "trend24h": [
         33,
         35,
-        37,
-        37,
+        33,
+        38,
         39,
-        39,
-        44,
-        42,
-        46,
-        46,
-        49,
-        49,
-        50,
-        48,
-        47,
-        45,
-        45,
-        42,
+        38,
         41,
-        42,
+        45,
+        45,
+        45,
+        46,
+        47,
+        48,
+        50,
+        49,
+        46,
+        47,
+        43,
+        41,
+        40,
         39,
-        36,
-        37,
-        35
+        35,
+        33,
+        33
       ],
       "trend7d": [
+        43,
         46,
-        47,
-        48,
-        47,
+        44,
+        49,
         46,
-        51,
-        51
+        49,
+        49
       ],
+      "ranks": {},
       "dataSource": "bangumi"
     },
     {
@@ -3735,7 +3793,8 @@
       "status": "finished",
       "genres": [
         "科幻",
-        "战斗"
+        "战斗",
+        "剧情"
       ],
       "mainPlatform": "bilibili",
       "copyright": "多平台可观看",
@@ -3743,12 +3802,13 @@
       "copyrightNote": "已完结番剧二创环境相对宽松，仍建议避免大段无加工原片搬运。",
       "heatIndex": 49,
       "rankChange": "new",
-      "surge24h": 39,
-      "surge6h": 12,
+      "surge24h": 35,
+      "surge6h": 16,
       "surgeReason": "口碑持续发酵，Bangumi 9.1 分，\"攻壳机动队、科幻\" 相关讨论度高",
       "tags": [
         "科幻",
-        "战斗"
+        "战斗",
+        "剧情"
       ],
       "qualitySource": "全 26 话，主流平台 1080P",
       "metrics": {
@@ -3758,11 +3818,11 @@
         "socialPosts": 541,
         "socialViews": 8,
         "shortViews": 5,
-        "shortGrowth": 31,
+        "shortGrowth": 28,
         "sameMusic": 135,
         "score": 9.1,
         "scoreUsers": 1,
-        "biliFavorites": 1353,
+        "biliFavorites": 1354,
         "biliCoins": 0
       },
       "audience": [
@@ -3821,37 +3881,37 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 47
+          "heat": 49
         },
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 46
+          "heat": 42
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 43
+          "heat": 42
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 38
+          "heat": 41
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 37
+          "heat": 36
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 29
+          "heat": 34
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 27
+          "heat": 30
         },
         {
           "ep": 8,
@@ -3861,7 +3921,7 @@
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 34
+          "heat": 36
         },
         {
           "ep": 10,
@@ -3871,49 +3931,50 @@
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 40
+          "heat": 41
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 51
+          "heat": 50
         }
       ],
       "trend24h": [
         34,
-        35,
+        33,
         36,
-        36,
-        37,
-        39,
+        38,
+        38,
+        40,
         43,
-        43,
-        47,
-        48,
-        48,
-        51,
-        48,
-        48,
-        47,
+        42,
+        45,
         46,
+        46,
+        47,
+        51,
+        51,
+        49,
+        47,
+        45,
         44,
         43,
-        41,
-        42,
-        38,
-        38,
-        36,
+        39,
+        39,
+        37,
+        34,
         36
       ],
       "trend7d": [
-        46,
         44,
+        45,
+        44,
+        49,
         46,
-        46,
-        48,
-        50,
+        47,
         52
       ],
+      "ranks": {},
       "dataSource": "bangumi"
     },
     {
@@ -3934,8 +3995,8 @@
       "copyrightNote": "已完结番剧二创环境相对宽松，仍建议避免大段无加工原片搬运。",
       "heatIndex": 49,
       "rankChange": "new",
-      "surge24h": 14,
-      "surge6h": 5,
+      "surge24h": 5,
+      "surge6h": 2,
       "surgeReason": "口碑持续发酵，Bangumi 8.8 分，\"押井守、攻壳机动队\" 相关讨论度高",
       "tags": [
         "科幻",
@@ -3949,7 +4010,7 @@
         "socialPosts": 562,
         "socialViews": 8,
         "shortViews": 6,
-        "shortGrowth": 11,
+        "shortGrowth": 4,
         "sameMusic": 141,
         "score": 8.8,
         "scoreUsers": 1,
@@ -4016,40 +4077,41 @@
         }
       ],
       "trend24h": [
-        36,
-        35,
+        33,
         34,
-        38,
-        39,
-        41,
-        42,
-        43,
-        45,
-        45,
-        50,
-        49,
-        48,
-        51,
-        49,
-        47,
-        46,
-        44,
+        35,
+        37,
+        37,
         40,
         41,
+        43,
+        47,
+        46,
+        47,
+        48,
+        50,
+        50,
+        46,
+        46,
+        43,
+        42,
+        42,
         39,
         38,
+        36,
         34,
-        33
+        36
       ],
       "trend7d": [
         44,
-        44,
-        45,
-        47,
         46,
+        44,
         49,
+        48,
+        47,
         49
       ],
+      "ranks": {},
       "dataSource": "bangumi"
     },
     {
@@ -4071,8 +4133,8 @@
       "copyrightNote": "已完结番剧二创环境相对宽松，仍建议避免大段无加工原片搬运。",
       "heatIndex": 49,
       "rankChange": "new",
-      "surge24h": 50,
-      "surge6h": 19,
+      "surge24h": 69,
+      "surge6h": 26,
       "surgeReason": "口碑持续发酵，Bangumi 8.7 分，\"银他妈、吐糟\" 相关讨论度高",
       "tags": [
         "搞笑",
@@ -4087,7 +4149,7 @@
         "socialPosts": 585,
         "socialViews": 9,
         "shortViews": 6,
-        "shortGrowth": 40,
+        "shortGrowth": 55,
         "sameMusic": 146,
         "score": 8.7,
         "scoreUsers": 1,
@@ -4150,57 +4212,57 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 44
+          "heat": 47
         },
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 41
+          "heat": 44
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 41
+          "heat": 42
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 41
+          "heat": 38
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 35
+          "heat": 34
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 31
+          "heat": 33
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 31
+          "heat": 28
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 29
+          "heat": 31
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 36
+          "heat": 35
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 39
+          "heat": 41
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 41
+          "heat": 42
         },
         {
           "ep": 12,
@@ -4209,40 +4271,41 @@
         }
       ],
       "trend24h": [
-        33,
-        33,
-        34,
         36,
-        38,
-        40,
-        42,
-        42,
-        46,
-        47,
-        49,
+        33,
+        35,
+        37,
+        37,
+        41,
+        41,
+        45,
+        45,
+        48,
+        48,
         50,
-        51,
+        48,
+        49,
         49,
         46,
-        45,
         44,
-        45,
-        41,
-        41,
+        43,
+        40,
+        40,
         38,
         35,
         36,
-        35
+        34
       ],
       "trend7d": [
-        45,
-        43,
+        46,
         47,
+        46,
+        49,
         47,
-        48,
-        51,
-        51
+        50,
+        49
       ],
+      "ranks": {},
       "dataSource": "bangumi"
     },
     {
@@ -4264,8 +4327,8 @@
       "copyrightNote": "连载新番版权方对二创管控较严，剪辑时避免完整集数搬运，建议控制单段素材在 30 秒内并加入个人解说/混剪。",
       "heatIndex": 43,
       "rankChange": "new",
-      "surge24h": 144,
-      "surge6h": 68,
+      "surge24h": 127,
+      "surge6h": 55,
       "surgeReason": "连载中剧情推进，\"异世界、轻小说改\" 话题带动切片传播",
       "tags": [
         "奇幻",
@@ -4274,17 +4337,17 @@
       ],
       "qualitySource": "全 14 话，主流平台 1080P",
       "metrics": {
-        "plays": 2343,
+        "plays": 2349,
         "playGrowth": 12,
-        "danmaku": 187,
-        "socialPosts": 469,
+        "danmaku": 188,
+        "socialPosts": 470,
         "socialViews": 7,
         "shortViews": 5,
-        "shortGrowth": 115,
+        "shortGrowth": 102,
         "sameMusic": 117,
         "score": 8,
         "scoreUsers": 1,
-        "biliFavorites": 1172,
+        "biliFavorites": 1174,
         "biliCoins": 0
       },
       "audience": [
@@ -4316,23 +4379,23 @@
         },
         {
           "word": "奇幻",
-          "count": 60
-        },
-        {
-          "word": "2026年7月",
           "count": 58
         },
         {
-          "word": "StudioBind",
-          "count": 50
+          "word": "2026年7月",
+          "count": 55
         },
         {
-          "word": "冒险",
-          "count": 48
+          "word": "StudioBind",
+          "count": 51
         },
         {
           "word": "TV",
           "count": 47
+        },
+        {
+          "word": "冒险",
+          "count": 45
         },
         {
           "word": "无职转生",
@@ -4343,17 +4406,17 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 42
+          "heat": 40
         },
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 37
+          "heat": 40
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 36
+          "heat": 37
         },
         {
           "ep": 4,
@@ -4363,12 +4426,12 @@
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 32
+          "heat": 29
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 27
+          "heat": 29
         },
         {
           "ep": 7,
@@ -4378,7 +4441,7 @@
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 29
+          "heat": 24
         },
         {
           "ep": 9,
@@ -4388,54 +4451,55 @@
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 33
+          "heat": 35
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 38
+          "heat": 39
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 41
+          "heat": 45
         }
       ],
       "trend24h": [
         32,
-        30,
-        32,
         32,
         31,
-        36,
-        36,
-        37,
-        38,
-        43,
-        44,
-        43,
-        42,
-        44,
-        43,
-        40,
-        39,
-        37,
-        36,
-        35,
+        31,
         32,
         33,
+        35,
+        39,
+        41,
+        41,
+        43,
+        45,
+        43,
+        42,
+        41,
+        41,
+        41,
+        39,
+        38,
+        36,
         33,
-        29
+        34,
+        31,
+        30
       ],
       "trend7d": [
-        38,
         40,
         38,
-        44,
-        44,
-        42,
+        39,
+        43,
+        41,
+        41,
         43
       ],
+      "ranks": {},
       "dataSource": "bangumi"
     },
     {
@@ -4454,22 +4518,22 @@
       "copyrightRisk": "medium",
       "copyrightNote": "B站热门番剧，剪辑时建议控制单段素材在 30 秒内并加入个人解说/混剪。",
       "heatIndex": 42,
-      "rankChange": 2,
-      "surge24h": 24,
-      "surge6h": 8,
+      "rankChange": 1,
+      "surge24h": 16,
+      "surge6h": 7,
       "surgeReason": "B站热播榜在榜，播放量与讨论度持续走高",
       "tags": [
         "剧情"
       ],
       "qualitySource": "全 12 话，B站 1080P",
       "metrics": {
-        "plays": 999,
+        "plays": 1000,
         "playGrowth": 10,
         "danmaku": 3,
         "socialPosts": 52,
         "socialViews": 5,
         "shortViews": 3,
-        "shortGrowth": 44,
+        "shortGrowth": 16,
         "sameMusic": 10,
         "score": 8.8,
         "scoreUsers": 0,
@@ -4499,99 +4563,103 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 30
+          "heat": 35
         },
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 42
+          "heat": 35
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 37
+          "heat": 40
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 37
+          "heat": 36
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 39
+          "heat": 30
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 40
+          "heat": 38
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 34
+          "heat": 40
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 41
+          "heat": 38
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 35
+          "heat": 34
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 31
+          "heat": 39
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 36
+          "heat": 34
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 38
+          "heat": 40
         }
       ],
       "trend24h": [
         30,
-        30,
         28,
         30,
-        31,
-        34,
-        35,
-        38,
-        40,
-        39,
-        40,
-        41,
-        41,
-        41,
-        42,
-        42,
-        37,
-        38,
-        35,
-        35,
-        31,
         30,
-        29,
-        29
-      ],
-      "trend7d": [
+        34,
+        36,
         36,
         37,
-        42,
+        38,
+        39,
+        41,
+        41,
+        40,
+        41,
+        40,
+        41,
+        40,
+        38,
+        34,
+        36,
+        32,
+        31,
+        31,
+        28
+      ],
+      "trend7d": [
+        39,
+        41,
+        38,
+        40,
         40,
         43,
-        42,
-        44
+        45
       ],
+      "ranks": {
+        "daily": 5,
+        "weekly": 5
+      },
       "dataSource": "bilibili"
     },
     {
@@ -4612,8 +4680,8 @@
       "copyrightNote": "连载新番版权方对二创管控较严，剪辑时避免完整集数搬运，建议控制单段素材在 30 秒内并加入个人解说/混剪。",
       "heatIndex": 40,
       "rankChange": "new",
-      "surge24h": 172,
-      "surge6h": 81,
+      "surge24h": 164,
+      "surge6h": 72,
       "surgeReason": "连载中剧情推进，\"搞笑、漫画改\" 话题带动切片传播",
       "tags": [
         "搞笑",
@@ -4621,17 +4689,17 @@
       ],
       "qualitySource": "全 12 话，主流平台 1080P",
       "metrics": {
-        "plays": 2163,
+        "plays": 2168,
         "playGrowth": 11,
         "danmaku": 173,
-        "socialPosts": 433,
-        "socialViews": 6,
+        "socialPosts": 434,
+        "socialViews": 7,
         "shortViews": 4,
-        "shortGrowth": 138,
+        "shortGrowth": 131,
         "sameMusic": 108,
         "score": 7.5,
         "scoreUsers": 1,
-        "biliFavorites": 1081,
+        "biliFavorites": 1084,
         "biliCoins": 0
       },
       "audience": [
@@ -4671,7 +4739,7 @@
         },
         {
           "word": "TV",
-          "count": 60
+          "count": 59
         },
         {
           "word": "BiburyAnimationStudios",
@@ -4690,7 +4758,7 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 35
+          "heat": 41
         },
         {
           "ep": 2,
@@ -4700,17 +4768,17 @@
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 38
+          "heat": 36
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 33
+          "heat": 36
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 32
+          "heat": 29
         },
         {
           "ep": 6,
@@ -4735,7 +4803,7 @@
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 32
+          "heat": 30
         },
         {
           "ep": 11,
@@ -4745,44 +4813,45 @@
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 42
+          "heat": 41
         }
       ],
       "trend24h": [
-        26,
         27,
-        29,
-        28,
-        29,
+        30,
         31,
-        34,
+        32,
+        31,
+        31,
         36,
-        37,
+        36,
         39,
+        39,
+        41,
+        42,
+        41,
         41,
         41,
         40,
-        41,
-        38,
-        38,
-        35,
+        36,
         34,
-        35,
+        36,
         33,
-        31,
-        28,
+        33,
         30,
-        30
+        27,
+        27
       ],
       "trend7d": [
         35,
-        35,
-        38,
         37,
-        41,
+        36,
+        38,
         39,
+        38,
         42
       ],
+      "ranks": {},
       "dataSource": "bangumi"
     },
     {
@@ -4803,8 +4872,8 @@
       "copyrightNote": "连载新番版权方对二创管控较严，剪辑时避免完整集数搬运，建议控制单段素材在 30 秒内并加入个人解说/混剪。",
       "heatIndex": 37,
       "rankChange": "new",
-      "surge24h": 127,
-      "surge6h": 42,
+      "surge24h": 113,
+      "surge6h": 53,
       "surgeReason": "连载中剧情推进，\"历史、漫画改\" 话题带动切片传播",
       "tags": [
         "剧情",
@@ -4812,17 +4881,17 @@
       ],
       "qualitySource": "全 12 话，主流平台 1080P",
       "metrics": {
-        "plays": 1571,
+        "plays": 1575,
         "playGrowth": 8,
         "danmaku": 126,
-        "socialPosts": 314,
+        "socialPosts": 315,
         "socialViews": 5,
         "shortViews": 3,
-        "shortGrowth": 102,
+        "shortGrowth": 90,
         "sameMusic": 79,
         "score": 8,
         "scoreUsers": 1,
-        "biliFavorites": 786,
+        "biliFavorites": 787,
         "biliCoins": 0
       },
       "audience": [
@@ -4874,7 +4943,7 @@
         },
         {
           "word": "日本",
-          "count": 35
+          "count": 34
         }
       ],
       "episodes": [
@@ -4886,52 +4955,52 @@
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 33
+          "heat": 32
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 35
+          "heat": 33
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 33
+          "heat": 29
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 27
+          "heat": 28
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 25
+          "heat": 26
         },
         {
           "ep": 7,
           "title": "第7话",
-          "heat": 24
+          "heat": 22
         },
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 20
+          "heat": 23
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 24
+          "heat": 27
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 29
+          "heat": 31
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 31
+          "heat": 35
         },
         {
           "ep": 12,
@@ -4940,40 +5009,41 @@
         }
       ],
       "trend24h": [
-        26,
-        25,
         27,
-        26,
         27,
+        28,
+        26,
         30,
         30,
-        31,
-        34,
-        37,
-        36,
-        38,
-        37,
-        37,
-        35,
-        37,
-        35,
-        32,
+        30,
         33,
-        29,
+        33,
+        37,
+        38,
+        35,
+        37,
+        35,
+        37,
+        35,
+        34,
+        35,
+        33,
+        31,
         30,
         26,
         27,
-        25
+        26
       ],
       "trend7d": [
-        32,
+        31,
         34,
-        34,
-        38,
-        34,
-        37,
-        38
+        36,
+        36,
+        39,
+        36,
+        39
       ],
+      "ranks": {},
       "dataSource": "bangumi"
     },
     {
@@ -4996,7 +5066,7 @@
       "heatIndex": 35,
       "rankChange": "new",
       "surge24h": 146,
-      "surge6h": 58,
+      "surge6h": 69,
       "surgeReason": "连载中剧情推进，\"恋爱、漫画改\" 话题带动切片传播",
       "tags": [
         "恋爱",
@@ -5005,17 +5075,17 @@
       ],
       "qualitySource": "全 12 话，主流平台 1080P",
       "metrics": {
-        "plays": 1752,
+        "plays": 1755,
         "playGrowth": 9,
         "danmaku": 140,
-        "socialPosts": 350,
+        "socialPosts": 351,
         "socialViews": 5,
         "shortViews": 4,
         "shortGrowth": 117,
         "sameMusic": 88,
         "score": 6.9,
         "scoreUsers": 0,
-        "biliFavorites": 876,
+        "biliFavorites": 877,
         "biliCoins": 0
       },
       "audience": [
@@ -5047,11 +5117,11 @@
         },
         {
           "word": "2026年7月",
-          "count": 66
+          "count": 65
         },
         {
           "word": "日常",
-          "count": 53
+          "count": 54
         },
         {
           "word": "TV",
@@ -5063,7 +5133,7 @@
         },
         {
           "word": "职场",
-          "count": 32
+          "count": 33
         },
         {
           "word": "2026",
@@ -5074,32 +5144,32 @@
         {
           "ep": 1,
           "title": "第1话",
-          "heat": 31
+          "heat": 32
         },
         {
           "ep": 2,
           "title": "第2话",
-          "heat": 31
+          "heat": 30
         },
         {
           "ep": 3,
           "title": "第3话",
-          "heat": 31
+          "heat": 34
         },
         {
           "ep": 4,
           "title": "第4话",
-          "heat": 27
+          "heat": 29
         },
         {
           "ep": 5,
           "title": "第5话",
-          "heat": 23
+          "heat": 25
         },
         {
           "ep": 6,
           "title": "第6话",
-          "heat": 22
+          "heat": 21
         },
         {
           "ep": 7,
@@ -5109,64 +5179,65 @@
         {
           "ep": 8,
           "title": "第8话",
-          "heat": 20
+          "heat": 19
         },
         {
           "ep": 9,
           "title": "第9话",
-          "heat": 26
+          "heat": 25
         },
         {
           "ep": 10,
           "title": "第10话",
-          "heat": 27
+          "heat": 30
         },
         {
           "ep": 11,
           "title": "第11话",
-          "heat": 28
+          "heat": 31
         },
         {
           "ep": 12,
           "title": "第12话",
-          "heat": 35
+          "heat": 37
         }
       ],
       "trend24h": [
+        24,
+        24,
         23,
-        24,
-        25,
-        24,
-        25,
-        30,
+        27,
+        26,
+        27,
+        31,
+        33,
         31,
         32,
-        34,
         35,
+        33,
+        33,
         34,
         36,
-        34,
-        35,
-        35,
         32,
-        34,
-        30,
+        32,
+        33,
         29,
-        29,
-        29,
-        26,
+        28,
+        28,
+        27,
         24,
-        25
+        23
       ],
       "trend7d": [
-        30,
-        33,
         32,
+        34,
+        32,
+        33,
         35,
-        36,
-        35,
-        37
+        34,
+        35
       ],
+      "ranks": {},
       "dataSource": "bangumi"
     }
   ]
